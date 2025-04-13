@@ -1,4 +1,4 @@
-# Sistema de Autenticação Unificado — i-Escola
+# Sistema de Autenticação Unificado
 
 ## Visão Geral
 
