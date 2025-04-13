@@ -1,6 +1,6 @@
 # 📘 i-Escola — Sistema de Gerenciamento escolar — Documentação
 
-Bem-vindo ao repositório de **Diretrizes Técnicas do i-Escola**, um sistema de gerenciamento escolar moderno, seguro e escalável.
+Bem-vindo ao repositório de **Diretrizes Técnicas do i-Escola**, um sistema de gerenciamento Escolar moderno, seguro e escalável.
 
 ## 🎯 Objetivo
 
