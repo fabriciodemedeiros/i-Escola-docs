@@ -1,0 +1,13 @@
+# Índice
+## Diretrizes do i-Escola
+
+## 📘 1. Fundamentos Técnicos
+- [Autenticação no i-Escola: Padrão Strategy e Princípios SOLID](https://github.com/i-Escola-docs/fabriciodemedeiros/blob/main/fundamentos/autenticacao-no-i-escola-padrao-strategy-e-principios-solid.md)
+
+## 📘 2. Engenharia de Software
+- [Herança, Contratos e Reutilização: Orientação a Objetos](https://github.com/i-Escola-docs/fabriciodemedeiros/blob/main/engenharia/heranca-contratos-e-reutilizacao-orientacao-a-objetos.md)
+- [Módulo de Autenticação com Strategy](https://github.com/i-Escola-docs/fabriciodemedeiros/blob/main/engenharia/modulo-de-autenticacao-com-strategy.md)
+- [Sistema de Autenticação Unificado](https://github.com/i-Escola-docs/fabriciodemedeiros/blob/main/engenharia/sistema-de-autenticacao-unificado-i-escola.md)
+
+## 📘 3. Modelagem de Dados
+- [Modelagem de Dados para Autenticação Segura](https://github.com/i-Escola-docs/fabriciodemedeiros/blob/main/modelagem/modelagem-de-dados-para-autenticacao-segura.md)
